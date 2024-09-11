@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ObligatoriskOpgave1/1.0.0": {
+        "runtime": {
+          "ObligatoriskOpgave1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObligatoriskOpgave1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

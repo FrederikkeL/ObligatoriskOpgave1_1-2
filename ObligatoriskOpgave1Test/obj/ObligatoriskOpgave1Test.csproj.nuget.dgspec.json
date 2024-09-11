@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DGI-17-PC144\\Documents\\Zealand\\Kode\\repo\\3 semester\\ObligatoriskOpgave\\ObligatoriskOpgave1Test\\ObligatoriskOpgave1Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DGI-17-PC144\\Documents\\Zealand\\Kode\\repo\\3 semester\\ObligatoriskOpgave\\ObligatoriskOpgave1Test\\ObligatoriskOpgave1Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DGI-17-PC144\\Documents\\Zealand\\Kode\\repo\\3 semester\\ObligatoriskOpgave\\ObligatoriskOpgave1Test\\ObligatoriskOpgave1Test.csproj",
+        "projectName": "ObligatoriskOpgave1Test",
+        "projectPath": "C:\\Users\\DGI-17-PC144\\Documents\\Zealand\\Kode\\repo\\3 semester\\ObligatoriskOpgave\\ObligatoriskOpgave1Test\\ObligatoriskOpgave1Test.csproj",
+        "packagesPath": "C:\\Users\\DGI-17-PC144\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DGI-17-PC144\\Documents\\Zealand\\Kode\\repo\\3 semester\\ObligatoriskOpgave\\ObligatoriskOpgave1Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DGI-17-PC144\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\DGI-17-PC144\\Documents\\Zealand\\Kode\\repo\\3 semester\\ObligatoriskOpgave\\ObligatoriskOpgave1\\ObligatoriskOpgave1.csproj": {
+                "projectPath": "C:\\Users\\DGI-17-PC144\\Documents\\Zealand\\Kode\\repo\\3 semester\\ObligatoriskOpgave\\ObligatoriskOpgave1\\ObligatoriskOpgave1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DGI-17-PC144\\Documents\\Zealand\\Kode\\repo\\3 semester\\ObligatoriskOpgave\\ObligatoriskOpgave1\\ObligatoriskOpgave1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DGI-17-PC144\\Documents\\Zealand\\Kode\\repo\\3 semester\\ObligatoriskOpgave\\ObligatoriskOpgave1\\ObligatoriskOpgave1.csproj",
+        "projectName": "ObligatoriskOpgave1",
+        "projectPath": "C:\\Users\\DGI-17-PC144\\Documents\\Zealand\\Kode\\repo\\3 semester\\ObligatoriskOpgave\\ObligatoriskOpgave1\\ObligatoriskOpgave1.csproj",
+        "packagesPath": "C:\\Users\\DGI-17-PC144\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DGI-17-PC144\\Documents\\Zealand\\Kode\\repo\\3 semester\\ObligatoriskOpgave\\ObligatoriskOpgave1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DGI-17-PC144\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
